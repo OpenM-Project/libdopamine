@@ -39,4 +39,4 @@ fn main() {
 ```
 
 ## :page_with_curl: License
-All code and assets are licensed under MPLv2.
+All code and assets are licensed under The Unlicense.

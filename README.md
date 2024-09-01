@@ -7,12 +7,12 @@
 ## :computer: Support
 The library only works on Windows for now, but cross-platform support may be added in the future. ~~Don't look forward to it, though.~~
 
-For all support needed to this library, you can open an [issue](https://github.com/wavEye-Project/libdopamine/issues/).
+For all support needed to this library, you can open an [issue](https://github.com/OpenM-Project/libdopamine/issues/).
 
 ## :inbox_tray: Install
 You can add the following code under `[dependencies]` in your `Cargo.toml` file:
 ```toml
-libdopamine = { git = "https://github.com/wavEye-Project/libdopamine.git" }
+libdopamine = { git = "https://github.com/OpenM-Project/libdopamine.git" }
 ```
 :warning: **WARNING:** This will require you to have [`git`](https://git-scm.com/downloads) in your `PATH`.
 
@@ -39,4 +39,4 @@ fn main() {
 ```
 
 ## :page_with_curl: License
-All code and assets are licensed under The Unlicense.
+All code and assets are licensed under the MIT License, see more at the [LICENSE](LICENSE) file.
